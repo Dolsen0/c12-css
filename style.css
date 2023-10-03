@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(216, 155, 155);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#box{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    border: 2px solid yellow;
+    margin: auto;
+}
+
+.box__text{
+    padding: 100px;
+}
+
+#circle{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    border: 2px solid yellow;
+    margin: auto;
+    border-radius: 300px;
+}
+
+.cirle__text{
+    padding: 100px;
+}
